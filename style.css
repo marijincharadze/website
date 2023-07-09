@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+#header{
+   background-color: rgb(107, 241, 192); 
+   text-align: center;
+}
+#nav{
+    background-color: beige;
+    
+}
+#nav ul{
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style: none;
+}
+#nav li{
+    float: left;
+}
+#nav ul a{
+    display: block;
+    width: 9em;
+    padding: 0 px;
+    text-decoration: none;
+    text-align: center;}
+
+    
+#nav ul a:hover{
+    background-color: azure;
+    color: rgb(225, 8, 8);
+}
+
+
+h2{color: rgb(42, 151, 165);
+
+}
+#footer{
+    color: rgb(43, 226, 150);
+}
+
